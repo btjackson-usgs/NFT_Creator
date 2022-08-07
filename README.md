@@ -11,3 +11,11 @@ Introduction of Blockchain Barry also, a digital NFT, that is an animated versio
 
 Barry-Jackson.com
 
+
+Three methods (may do all three)
+------------------------------------------------
+First, you can store the information on-chain. In other word, you can extend your ERC-721 and store the metadata on the blockchain, which can be costly.
+
+The second method is to use IPFS. And the third way is to simply have your API return the JSON file.
+
+The first and second methods are usually preferred, since you cannot temper the underlying JSON file. For the scope of this project, we will opt for the third method.
