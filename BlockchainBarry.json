@@ -5,10 +5,12 @@
  
 // A link to ipfs should do it, but for this demo I hosting it off LeakingPockets.com meaning this can only be a demo.
   // It would need to have a persistent immutable url the one below is not
- //"image":"ipfs://QmbbfqR9EHdEY2Jy2dJYx8jjFftoaMnD6vgKJLMFXemVdL/BlochainBarry.gif",
+ //"image":"ipfs://random-uri-2dJYx8jjFftoaMnD6vgKJLMFXemVdL/Blockchain-Barry.png",
+  
+
   
   
- "image":"https://LeakingPockets/BJ/images/BlochainBarry.gif",
+ "image":"https://LeakingPockets.com/BJ/images/Blockchain-Barry.png",
 
   
  "attributes":[{"trait_type": "Unknown","value": "Unknown"}]}
